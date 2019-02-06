@@ -1,5 +1,8 @@
 # red-alert-tasks
 
+Idea basically is a mini project to train with Vuetify, Vuex, Service Workers and PWA to add in Android :D
+
+# Installation
 ## Project setup
 ```
 npm install
